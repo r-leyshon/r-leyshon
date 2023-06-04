@@ -15,3 +15,5 @@ for the 🇬🇧 Office for National Statistics [Data Science Campus](https://da
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-leyshon&size_weight=0.5&count_weight=0.5&hide=html,ruby&layout=compact" />
 </a>
+
+To see more information about my experience, please [click to view my resume](https://r-leyshon.github.io/resume/).
