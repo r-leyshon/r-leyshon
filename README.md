@@ -1,10 +1,3 @@
-
-  <head>
-    <!-- Place your kit's code here -->
-    <script src="https://kit.fontawesome.com/15557ce6ef.js" crossorigin="anonymous"></script>
-  </head>
-
-
 # Hi there 👋
 My name is Rich. I'm a senior data scientist currently specialising in policy evaluation
 for the 🇬🇧 Office for National Statistics [Data Science Campus](https://datasciencecampus.ons.gov.uk/author/rich-leyshon/).
@@ -12,8 +5,8 @@ for the 🇬🇧 Office for National Statistics [Data Science Campus](https://da
 - 🔭 I’m currently working on urban transport network performance.  
 - 🌱 I’m learning MLOps and playing with JavaScript.  
 - 📫 How to reach me:  
-    - <a href="https://twitter.com/Rich_L1984"><i class="fa-brands fa-square-twitter"></i> Find me on Twitter.</a>  
-    - <a href="https://www.linkedin.com/in/richard-leyshon-316121163/"><i class="fa-brands fa-linkedin"></i> Profile on LinkedIn.</a>
+    - <a href="https://twitter.com/Rich_L1984">Find me on Twitter.</a>  
+    - <a href="https://www.linkedin.com/in/richard-leyshon-316121163/">Profile on LinkedIn.</a>
 - ⚡ Fun fact: I never missed a day of secondary school. Sad but true.  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
