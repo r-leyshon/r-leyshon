@@ -16,4 +16,9 @@ for the 🇬🇧 Office for National Statistics [Data Science Campus](https://da
     - <a href="https://www.linkedin.com/in/richard-leyshon-316121163/"><i class="fa-brands fa-linkedin"></i> Profile on LinkedIn.</a>
 - ⚡ Fun fact: I never missed a day of secondary school. Sad but true.  
 
-<img src="https://github-readme-stats.vercel.app/api?username=r-leyshon&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&custom_title=Rich%20Leyshon%27s%20GitHub%20Stats" alt="Rich's GitHub stats"></img>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=r-leyshon&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&custom_title=Rich%20Leyshon%27s%20GitHub%20Stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-leyshon&size_weight=0.5&count_weight=0.5&hide=html,ruby&layout=compact" />
+</a>
