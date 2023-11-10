@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Rich. I'm a senior data scientist currently involved in policy evaluation of the UK Government's Levelling Up programme for the 🇬🇧 Office for National Statistics [Data Science Campus](https://datasciencecampus.ons.gov.uk/author/rich-leyshon/).
+My name is Rich. I'm a senior data scientist currently involved in policy evaluation of the UK Government's Levelling Up programme for the :uk: Office for National Statistics [Data Science Campus](https://datasciencecampus.ons.gov.uk/author/rich-leyshon/).
 
 - 🔭 I’m currently comparing urban transport network performance in the UK and abroad.  
 - 🌱 I’m learning MLOps and enjoy playing with JavaScript.  
