@@ -1,10 +1,10 @@
 # Hi there 👋
-My name is Rich. I'm a senior data scientist currently involved in policy evaluation of the UK Government's Levelling Up programme for the :uk: Office for National Statistics [Data Science Campus](https://datasciencecampus.ons.gov.uk/author/rich-leyshon/).
+My name is Rich. I'm a senior developer currently involved in R&D at Ministry of Justice ⚖️.
 
-- 🔭 I’m currently comparing urban transport network performance in the UK and abroad.  
-- 🌱 I’m learning MLOps and enjoy playing with JavaScript.  
+- 🔭 I’m interested in transport modelling and policy priority inference.
+- 🌱 I’m learning GenAI with everybody else. 
 - 📫 How to reach me:  
-    - <a href="https://twitter.com/Rich_L1984">Find me on Twitter.</a> I mostly reshare interesting posts from the open-source development community. 
+    - <a href="https://x.com/Rich_L1984">Find me on X.</a> I mostly reshare interesting posts from the open-source development community. 
     - <a href="https://www.linkedin.com/in/richard-leyshon-316121163/">Profile on LinkedIn.</a> I use this channel to keep up with colleagues' career development.
 - ⚡ Fun fact: I enjoy blogging on content related to programming. Please check out [The Data Savvy Corner](https://thedatasavvycorner.com/).
 
