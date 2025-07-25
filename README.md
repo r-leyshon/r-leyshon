@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Rich. I'm a senior developer currently involved in R&D at Ministry of Justice ⚖️.
+My name is Rich. I'm an AI Engineer AI Justice Unit ⚖️.
 
 - 🔭 I’m interested in transport modelling and policy priority inference.
 - 🌱 I’m learning GenAI with everybody else. 
