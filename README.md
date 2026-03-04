@@ -9,10 +9,10 @@ My name is Rich. I'm an AI Engineer AI Justice Unit ⚖️.
 - ⚡ Fun fact: I enjoy blogging on content related to programming. Please check out [The Data Savvy Corner](https://thedatasavvycorner.com/).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=r-leyshon&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&custom_title=Rich%20Leyshon%27s%20GitHub%20Stats" />
+  <img align="center" src="./assets/readme-stats/stats.svg" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-leyshon&size_weight=0.5&count_weight=0.5&hide=html,ruby&layout=compact" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="./assets/readme-stats/top-langs.svg" />
 </a>
 
 To see more information about my experience, please [click to view my resume](https://r-leyshon.github.io/resume/).
