@@ -1,7 +1,6 @@
 name: Generate GitHub Readme Stats cards
 
 on:
-  push:
   schedule:
     - cron: '0 3 * * *'
   workflow_dispatch:
