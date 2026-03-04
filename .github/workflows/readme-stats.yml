@@ -38,4 +38,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/readme-stats
           git commit -m "Update readme stats cards" || echo "No changes to commit"
+          git pull --rebase origin main
           git push
