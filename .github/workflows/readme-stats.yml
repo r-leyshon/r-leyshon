@@ -1,6 +1,7 @@
 name: Generate GitHub Readme Stats cards
 
 on:
+  push:
   schedule:
     - cron: '0 3 * * *'
   workflow_dispatch:
@@ -36,7 +37,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull origin main
           git add assets/readme-stats
           git commit -m "Update readme stats cards" || echo "No changes to commit"
-          git pull --rebase origin main
           git push
