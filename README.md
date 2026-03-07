@@ -6,8 +6,6 @@ I build production AI systems: Python fastapi services, data pipelines, APIs, an
 
 🌱 Currently learning: Typescript
 
-<img align="center" src="./assets/readme-stats/stats.svg" />
-
-<img align="center" src="./assets/readme-stats/top-langs.svg" />
+<img align="center" src="./assets/readme-stats/stats.svg" /> <img align="center" src="./assets/readme-stats/top-langs.svg" />
 
 To see more information about my experience, please [click to view my resume](https://r-leyshon.github.io/resume/).
