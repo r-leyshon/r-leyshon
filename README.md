@@ -1,18 +1,13 @@
-# Hi there 👋
-My name is Rich. I'm an AI Engineer AI Justice Unit ⚖️.
+My name is Rich — Senior Developer in the AI Justice Unit ⚖️ (UK Ministry of Justice).
 
-- 🔭 I’m interested in transport modelling and policy priority inference.
-- 🌱 I’m learning GenAI with everybody else. 
-- 📫 How to reach me:  
-    - <a href="https://x.com/Rich_L1984">Find me on X.</a> I mostly reshare interesting posts from the open-source development community. 
-    - <a href="https://www.linkedin.com/in/richard-leyshon-316121163/">Profile on LinkedIn.</a> I use this channel to keep up with colleagues' career development.
-- ⚡ Fun fact: I enjoy blogging on content related to programming. Please check out [The Data Savvy Corner](https://thedatasavvycorner.com/).
+I build production AI systems: Python fastapi services, data pipelines, APIs, and LLM-powered tools with solid evaluation + observability. I’m especially interested in applying NLP, geospatial methods, and hypothesis testing — including transport modelling and policy priority inference.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="./assets/readme-stats/stats.svg" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="./assets/readme-stats/top-langs.svg" />
-</a>
+🔭 Current interests: Transcription, summarisation, agentic workflows, retrieval & evals.
+
+🌱 Currently learning: Typescript
+
+<img align="center" src="./assets/readme-stats/stats.svg" />
+
+<img align="center" src="./assets/readme-stats/top-langs.svg" />
 
 To see more information about my experience, please [click to view my resume](https://r-leyshon.github.io/resume/).
