@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Rich Leyshon's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 9, Total Commits  : 3162, Total PRs: 176, Total Issues: 302, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 9, Total Commits  : 3163, Total PRs: 176, Total Issues: 302, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 96.9406606393282;
+        stroke-dashoffset: 96.93741793972995;
       }
     }
   
