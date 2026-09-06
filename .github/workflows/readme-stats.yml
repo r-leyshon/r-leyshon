@@ -22,7 +22,7 @@ jobs:
           card: stats
           options: username=r-leyshon&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&custom_title=Rich%20Leyshon%27s%20GitHub%20Stats
           path: assets/readme-stats/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_PAT }}
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2
